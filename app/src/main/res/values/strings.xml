@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeshTalk</string>
+    <string name="meshtalk">MeshTalk</string>
+    <string name="secure_mesh_chat">Secure Mesh Chat</string>
+    <string name="discover_devices">Discover Devices</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
